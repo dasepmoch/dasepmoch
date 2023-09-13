@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [Freelance](https://dasepmoch.dev)
 
-- 🌱 I’m currently learning **Muhammadiyah University**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
 - 🤝 I’m looking for help with **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://dasepmoch.dev](https://dasepmoch.dev)
