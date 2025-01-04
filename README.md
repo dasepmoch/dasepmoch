@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasepmoch&label=Profile%20views&color=0e75b6&style=flat" alt="dasepmoch" /> </p>
 
-- 🔭 I’m currently working on [Freelance](https://dasepmoch.dev)
+- 🔭 I’m currently working on [Freelance](https://dasepmoch.com)
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://dasepmoch.dev](https://dasepmoch.dev)
+- 👨‍💻 All of my projects are available at [https://dasepmoch.dev](https://dasepmoch.com)
 
-- 📝 I regularly write articles on [https://dasepmoch.dev/blog](https://dasepmoch.dev/blog)
+- 📝 I regularly write articles on [https://dasepmoch.dev/blog](https://jokiarea.com/blog)
 
 - 💬 Ask me about **React, Vue, flutter**
 
 - 📫 How to reach me **dasepmmm@gmail.com**
 
-- 📄 Know about my experiences [https://dasepmoch.dev](https://dasepmoch.dev)
+- 📄 Know about my experiences [https://dasepmoch.com](https://dasepmoch.com)
 
 - ⚡ Fun fact **I think Im funny**
 
